@@ -1,4 +1,4 @@
-# Mac-Brew
+# MacOS-HomeBrew
 针对mac os安装问题
 
 最近在mac os上安装homebrew时遇到一些问题：
